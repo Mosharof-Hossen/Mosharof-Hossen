@@ -3,8 +3,6 @@
 ● 🌱 I’m currently learning Web Development(React js, Node js, javascript ,MondoDB ,Firebase). </br>
 ● 📫 How to reach me <a href="mailto:mosharofhossen1998@gmail.com">mosharofhossen1998@gmail.com</a></br>
 </br>
-![Profile views](https://gpvc.arturio.dev/[Mosharof-Hossen])
-
 
 ### Connect with me:
 [<img width = "50px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" alt="">](https://www.linkedin.com/in/mosharof-hossen-005323171/)
