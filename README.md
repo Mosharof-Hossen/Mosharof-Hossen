@@ -102,9 +102,11 @@
 
 
 
-| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosharof-hossen&show_icons=true&locale=en&layout=compact" alt="mosharof-hossen" /></p> 
-
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosharof-hossen&show_icons=true&locale=en" alt="mosharof-hossen" /></p> 
-
- | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosharof-hossen&" alt="mosharof-hossen" /></p> |
+| <a href="https://github.com/mosharof-hossen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mosharof-hossen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mosharof's github stats" /></a> | <a href="https://github.com/mosharof-hossen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosharof-hossen&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosharof-hossen&theme=buefy&hide_border=true" alt="mosharof-hossen" />
+</p>
+
+
