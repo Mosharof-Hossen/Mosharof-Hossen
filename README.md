@@ -7,7 +7,8 @@
 ● 📫 How to reach me <a href="mailto:mosharofhossen1998@gmail.com">mosharofhossen1998@gmail.com</a></br>
 ● 🥰 Portfolio: <a href="https://portfolio-pro-max.web.app/">Portfolio</a></br>
 
-<h3 align="left">Connect with me:</h3>
+
+## Connect with me :handshake:
 <p align="left">
 <a href="https://www.linkedin.com/in/mosharof-hosssen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mosharof-hossen-005323171/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mosharofhossenvai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohsarofhossen" height="30" width="40" /></a>
