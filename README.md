@@ -98,13 +98,14 @@
         </a>
     </p>
 
+| <a href="https://github.com/chowdhuryfatema/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chowdhuryfatema&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fatema's github stats" /></a> | <a href="https://github.com/chowdhuryfatema/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowdhuryfatema&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
+| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosharof-hossen&show_icons=true&locale=en&layout=compact" alt="mosharof-hossen" /></p> 
 
-| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosharof-hossen&show_icons=true&locale=en&layout=compact" alt="mosharof-hossen" /></p> |
-
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosharof-hossen&show_icons=true&locale=en" alt="mosharof-hossen" /></p> |
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosharof-hossen&show_icons=true&locale=en" alt="mosharof-hossen" /></p> 
 
  | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosharof-hossen&" alt="mosharof-hossen" /></p> |
 | ------------- | ------------- |
