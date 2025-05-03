@@ -3,13 +3,16 @@
 <p>A Full Stack Web Developer currently working at arTech Digital. I specialize in building scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js),Redux, Nextjs and TypeScript. Passionate about clean code and continuous learning, I also create educational content to help others grow in web development.</p>
 
 ● 👀 I’m interested in full stack Web Development </br>
-● 🌱 I’m currently learning Web Development(React js, Node js, javascript ,MondoDB ,Firebase). </br>
+● 🌱 I’m currently learning FastApi</br>
 ● 📫 How to reach me <a href="mailto:mosharofhossen1998@gmail.com">mosharofhossen1998@gmail.com</a></br>
 ● 🥰 Portfolio: <a href="https://portfolio-pro-max.web.app/">Portfolio</a></br>
 
 ### Connect with me:
-[<img width = "50px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" alt="">](https://www.linkedin.com/in/mosharof-hossen-005323171/)
-[<img width = "50px" src="https://camo.githubusercontent.com/68395a7b109c74c379a2e19b46e78a7df724c05e8a35df5b2d4a85d3b6cb5369/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f66616365626f6f6b2e737667" alt="">](https://www.facebook.com/mosharofhossen.mosharofhossen.35)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mosharof-hossen-005323171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mosharof-hossen-005323171/" height="30" width="40" /></a>
+<a href="https://fb.com/mohsarofhossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohsarofhossen" height="30" width="40" /></a>
+</p>
     
 ### Languages And Tools:
 
