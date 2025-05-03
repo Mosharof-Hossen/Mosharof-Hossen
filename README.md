@@ -99,8 +99,12 @@
     </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosharof-hossen&show_icons=true&locale=en&layout=compact" alt="mosharof-hossen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosharof-hossen&show_icons=true&locale=en" alt="mosharof-hossen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosharof-hossen&" alt="mosharof-hossen" /></p>
+
+| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosharof-hossen&show_icons=true&locale=en&layout=compact" alt="mosharof-hossen" /></p> |
+
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosharof-hossen&show_icons=true&locale=en" alt="mosharof-hossen" /></p> |
+
+ | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosharof-hossen&" alt="mosharof-hossen" /></p> |
+| ------------- | ------------- |
